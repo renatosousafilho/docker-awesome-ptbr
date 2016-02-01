@@ -6,7 +6,7 @@ Projeto para indexar informações a respeito de Docker. Como tutoriais, twitter
 Docker é um software open source que permite você empacotar uma aplicação com todas suas depecências em uma unidade padronizada para desenvolvimento de software denominada **container**.
 
 ## Quem pode usa Docker? ##
-* DevOps
+* Time de DevOps
 * SysAdmins
 * Software Developers (backend, frontend, fullstack)
 * Professores e Instrutores de Desenvolvimento de Código.
