@@ -15,6 +15,11 @@ Docker é um software open source que permite você empacotar uma aplicação co
 ## O que o Docker faz? ##
 O Docker faz o provisionamento da arquitetura da sua aplicação. Isso garante que sua aplicação vai rodar em qualquer máquina, seja em ambiente de desenvolvimento, staging ou produçao da mesma forma bastando possuir o Docker instalado nas mesmas. (ou o mais próximo possível).
 
+## Softwares Open Source que usam Docker. ##
+
+* Tsuru: https://tsuru.io/
+* Dokku  http://dokku.viewdocs.io/dokku/
+* Terraform: https://www.terraform.io/
 
 ## Site oficial ##
 https://www.docker.com/
