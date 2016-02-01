@@ -1,5 +1,5 @@
 # Guia de Docker #
-Projeto para indexar informações a respeito de Docker. Como tutoriais, twitters e comunidades.
+Projeto para indexar informações a respeito de Docker. Como tutoriais, twitters e comunidades em pt-BR.
 
 ## Site oficial ##
 https://www.docker.com/
