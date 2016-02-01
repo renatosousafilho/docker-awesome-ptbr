@@ -2,6 +2,10 @@
 # Guia de Docker #
 Projeto para indexar informações a respeito de Docker. Como tutoriais, twitters e comunidades em pt-BR.
 
+## O que é Docker? ##
+Docker é um software open source que permite você empacotar uma aplicação com todas suas depecências em uma unidade padronizada para desenvolvimento de software, chamada container.
+
+
 ## Site oficial ##
 https://www.docker.com/
 
