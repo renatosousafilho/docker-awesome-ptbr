@@ -14,4 +14,8 @@ https://www.docker.com/
 * Containers com Docker Do desenvolvimento à produção.(Casa do Código) http://www.casadocodigo.com.br/products/livro-docker
 * If it works with Docker, it works with Codeship. http://pages.codeship.com/docker
 
+### Inspirado do Awesome Docker
+https://github.com/veggiemonk/awesome-docker
+
+
 
