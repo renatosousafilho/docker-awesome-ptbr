@@ -6,8 +6,8 @@ https://www.docker.com/
 
 ## Pessoas e comunidades ##
 * Comunidade no Slack: http://docker-br.herokuapp.com/
-* Daniel Romero: https://twitter.com/infoslack)
-* Laura Frank: (https://twitter.com/rhein_wein)
+* Daniel Romero: https://twitter.com/infoslack
+* Laura Frank: https://twitter.com/rhein_wein
 
 ## Livros e blogs ##
 * Containers com Docker Do desenvolvimento à produção.(Casa do Código) http://www.casadocodigo.com.br/products/livro-docker
