@@ -3,7 +3,17 @@
 Projeto para indexar informações a respeito de Docker. Como tutoriais, twitters e comunidades em pt-BR.
 
 ## O que é Docker? ##
-Docker é um software open source que permite você empacotar uma aplicação com todas suas depecências em uma unidade padronizada para desenvolvimento de software, chamada container.
+Docker é um software open source que permite você empacotar uma aplicação com todas suas depecências em uma unidade padronizada para desenvolvimento de software denominada **container**.
+
+## Quem pode usa Docker? ##
+* DevOps
+* SysAdmins
+* Software Developers (backend, frontend, fullstack)
+* Professores e Instrutores de Desenvolvimento de Código.
+* Gerentes de TI
+
+## O que o Docker faz? ##
+O Docker faz o provisionamento da arquitetura da sua aplicação. Isso garante que sua aplicação vai rodar em qualquer máquina, seja em ambiente de desenvolvimento, staging ou produçao da mesma forma bastando possuir o Docker instalado nas mesmas. (ou o mais próximo possível).
 
 
 ## Site oficial ##
