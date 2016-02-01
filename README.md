@@ -1,5 +1,5 @@
+![Docker Logo](https://raw.githubusercontent.com/renatosousafilho/docker-awesome-ptbr/master/docker.png)
 # Guia de Docker #
-![Docker Logo(https://raw.githubusercontent.com/renatosousafilho/docker-awesome-ptbr/master/docker.png)
 Projeto para indexar informações a respeito de Docker. Como tutoriais, twitters e comunidades em pt-BR.
 
 ## Site oficial ##
