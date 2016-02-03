@@ -21,6 +21,11 @@ O Docker faz o provisionamento da arquitetura da sua aplicação. Isso garante q
 * Dokku  http://dokku.viewdocs.io/dokku/
 * Terraform: https://www.terraform.io/
 
+## Docker Cheat Sheet ##
+
+Lista com os principais comandos do docker no Duck Duck Go:
+https://duckduckgo.com/?q=docker+cheat+sheet&t=ffsb&ia=cheatsheet
+
 ## Site oficial ##
 https://www.docker.com/
 
