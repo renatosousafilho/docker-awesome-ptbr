@@ -26,6 +26,8 @@ O Docker faz o provisionamento da arquitetura da sua aplicação. Isso garante q
 Lista com os principais comandos do docker no Duck Duck Go:
 https://duckduckgo.com/?q=docker+cheat+sheet&t=ffsb&ia=cheatsheet
 
+[Docker Cheat Sheet](https://github.com/renatosousafilho/docker-cheat-sheet)
+
 ## Site oficial ##
 https://www.docker.com/
 
